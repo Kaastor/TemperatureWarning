@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TemperatureWarning</string>
+    <string name="temperature">Temperatura</string>
+    <string name="alarmValue">0</string>
+</resources>
